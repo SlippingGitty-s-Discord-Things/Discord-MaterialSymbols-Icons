@@ -1,0 +1,8 @@
+{
+    "name": "Discord Product Icons",
+    "version": "06.2022",
+    "license": "WTFPL",
+    "theme": "producticons.theme.css",
+    "author": "Vozy",
+    "description": "Google's Product Icons on Discord."
+}
