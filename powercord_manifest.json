@@ -1,8 +1,8 @@
 {
-    "name": "Discord Product Icons",
+    "name": "Discord Material Symbols",
     "version": "06.2022",
     "license": "WTFPL",
     "theme": "producticons.theme.css",
     "author": "Vozy",
-    "description": "Google's Product Icons on Discord."
+    "description": "Google's Material Symbols on Discord."
 }
