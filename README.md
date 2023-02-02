@@ -1,7 +1,8 @@
 <h1 align="center">Discord Material Symbols Icons</h1>
 <p align="center">Google's Material v3 Symbols on Discord</p>
 
-### REPO & PROJECT WIP
+* Import this into your theme:
+  * `@import url("https://slippinggitty-s-discord-things.github.io/Discord-MaterialSymbols-Icons/producticons.theme.css");`
 
 <details>
 <summary>Screenshots</summary>
